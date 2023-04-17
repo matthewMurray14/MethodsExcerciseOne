@@ -1,0 +1,15 @@
+C:\Users\matt\desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.csproj.AssemblyReference.cache
+C:\Users\matt\desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt\desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.AssemblyInfoInputs.cache
+C:\Users\matt\desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.AssemblyInfo.cs
+C:\Users\matt\desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\bin\Debug\net6.0\MethodsCSharp.exe
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\bin\Debug\net6.0\MethodsCSharp.deps.json
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\bin\Debug\net6.0\MethodsCSharp.runtimeconfig.json
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\bin\Debug\net6.0\MethodsCSharp.dll
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\bin\Debug\net6.0\MethodsCSharp.pdb
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.dll
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\refint\MethodsCSharp.dll
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.pdb
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\MethodsCSharp.genruntimeconfig.cache
+C:\Users\matt\Desktop\repos\MethodsCSharp\MethodsCSharp\obj\Debug\net6.0\ref\MethodsCSharp.dll
