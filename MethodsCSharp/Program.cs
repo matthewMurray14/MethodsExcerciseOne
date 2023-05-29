@@ -23,7 +23,7 @@ namespace MethodsOne
             int userRate = int.Parse(Console.ReadLine());
 
             Console.WriteLine("What!? You'll have to speak up sonny! I'm an old man.");
-
+            //Change to signify change. Working with my 2nd branch of this program on my own. May not go so well.
             oldMan();
             oldMan();
             oldMan();

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matt\\.nuget\\packages\\": {}
+    "C:\\Users\\MattaCarr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matt\\desktop\\repos\\MethodsCSharp\\MethodsCSharp\\MethodsCSharp.csproj",
+      "projectUniqueName": "D:\\repos\\TrueC\\MethodsExcerciseOne\\MethodsCSharp\\MethodsCSharp.csproj",
       "projectName": "MethodsCSharp",
-      "projectPath": "C:\\Users\\matt\\desktop\\repos\\MethodsCSharp\\MethodsCSharp\\MethodsCSharp.csproj",
-      "packagesPath": "C:\\Users\\matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matt\\desktop\\repos\\MethodsCSharp\\MethodsCSharp\\obj\\",
+      "projectPath": "D:\\repos\\TrueC\\MethodsExcerciseOne\\MethodsCSharp\\MethodsCSharp.csproj",
+      "packagesPath": "C:\\Users\\MattaCarr\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\TrueC\\MethodsExcerciseOne\\MethodsCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MattaCarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
